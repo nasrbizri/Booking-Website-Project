@@ -1,0 +1,40 @@
+.form{
+    padding-top: 5%;
+    padding-left: 5%;
+    background-color: E6E8F0;
+    padding-bottom: 10%
+
+}
+.navbar-text {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.navbar {
+    background-color: #7DABF0;
+}
+.name{
+    background-color: white;
+    width: 10%;
+    height: 2%;
+}
+.form1 input{
+    color: black;
+}
+
+.mail{
+    background-color: white;
+    width: 15%;
+    height: 2%;
+}
+
+textarea{
+    width: 70%;
+}
+
+.form1 input[type="submit"]{
+    font-size: 70%;
+    height: 4%;
+    width:3%;
+    background-color: white;
+}
